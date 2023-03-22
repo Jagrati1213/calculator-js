@@ -17,4 +17,5 @@ not compeleted yet, used manually operations
 - Events
 - data attributes
 - Eval()
-
+##
+deploye [link](https://jagrati1213.github.io/calculator-js/)
