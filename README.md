@@ -19,3 +19,6 @@ Use to calculate values.
 - Change UI
 - Add more buttons
 - Add single query
+
+### Deploy link
+[link](https://jagrati1213.github.io/calculator-js/)
