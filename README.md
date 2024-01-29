@@ -1,6 +1,7 @@
 # Calculator App 🧮
 
 This simple calculator app is built using HTML, CSS, and JavaScript, providing basic arithmetic operations such as addition, subtraction, multiplication, and division.
+[Calculator ](https://jagrati1213.github.io/calculator-js/)
 
 ## Features :
 
@@ -28,9 +29,6 @@ This simple calculator app is built using HTML, CSS, and JavaScript, providing b
 
 Feel free to customize and extend this calculator app according to your needs. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request. 
 Happy calculating!
-
-## Deploy link :
-[link](https://jagrati1213.github.io/calculator-js/)
 
 ## Project Images: 
 ![image](https://github.com/Jagrati1213/calculator-js/assets/85276293/c6eb8fe5-077c-4858-b3c3-9d96d27af4f8)
